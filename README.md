@@ -1,7 +1,7 @@
 # Dot Matrix Tool
 
 Edited version, with feature of read back data
-https://hxlvelectronicclub.github.io/dotmatrixtool/
+https://josepadron.github.io/dotmatrixtool/
 
 
 Below is from the oringinal repo.
